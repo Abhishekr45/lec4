@@ -1,0 +1,36 @@
+body{
+    font-size: 'poppins';
+    background-image: url('/image/istockphoto-611075654-612x612.jpg' );
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+.header-container{
+    margin: 30px;
+}
+.header-quote{
+
+    text-align: center;
+    font-size: 100px;
+}
+.header-title{
+    text-align: center;
+    font-size: 250px;
+   
+
+}
+.subtitle{
+ text-align: center;
+ font-size: 100px;
+}
+.full{
+
+    text-align: center;
+
+}
+
+.btn:hover{
+    color: darkblue;
+    background-color:darksalmon;
+    
+}
